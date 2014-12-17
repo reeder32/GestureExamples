@@ -14,6 +14,9 @@
 		2785694E1A3FCCCE004FCFBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2785694D1A3FCCCE004FCFBE /* Images.xcassets */; };
 		278569511A3FCCCE004FCFBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2785694F1A3FCCCE004FCFBE /* LaunchScreen.xib */; };
 		2785695D1A3FCCCF004FCFBE /* GestureExamplesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2785695C1A3FCCCF004FCFBE /* GestureExamplesTests.m */; };
+		278569671A3FCF7F004FCFBE /* luigi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 278569661A3FCF7E004FCFBE /* luigi.jpg */; };
+		278569691A3FD124004FCFBE /* luigi.png in Resources */ = {isa = PBXBuildFile; fileRef = 278569681A3FD124004FCFBE /* luigi.png */; };
+		2785696B1A3FDF5E004FCFBE /* luigi_image_360.png in Resources */ = {isa = PBXBuildFile; fileRef = 2785696A1A3FDF5E004FCFBE /* luigi_image_360.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,9 @@
 		278569561A3FCCCF004FCFBE /* GestureExamplesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GestureExamplesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2785695B1A3FCCCF004FCFBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2785695C1A3FCCCF004FCFBE /* GestureExamplesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GestureExamplesTests.m; sourceTree = "<group>"; };
+		278569661A3FCF7E004FCFBE /* luigi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luigi.jpg; sourceTree = "<group>"; };
+		278569681A3FD124004FCFBE /* luigi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = luigi.png; sourceTree = "<group>"; };
+		2785696A1A3FDF5E004FCFBE /* luigi_image_360.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = luigi_image_360.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +92,9 @@
 				278569471A3FCCCE004FCFBE /* ViewController.h */,
 				278569481A3FCCCE004FCFBE /* ViewController.m */,
 				2785694A1A3FCCCE004FCFBE /* Main.storyboard */,
+				2785696A1A3FDF5E004FCFBE /* luigi_image_360.png */,
+				278569681A3FD124004FCFBE /* luigi.png */,
+				278569661A3FCF7E004FCFBE /* luigi.jpg */,
 				2785694D1A3FCCCE004FCFBE /* Images.xcassets */,
 				2785694F1A3FCCCE004FCFBE /* LaunchScreen.xib */,
 				278569401A3FCCCE004FCFBE /* Supporting Files */,
@@ -200,7 +209,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2785694C1A3FCCCE004FCFBE /* Main.storyboard in Resources */,
+				278569691A3FD124004FCFBE /* luigi.png in Resources */,
+				2785696B1A3FDF5E004FCFBE /* luigi_image_360.png in Resources */,
 				278569511A3FCCCE004FCFBE /* LaunchScreen.xib in Resources */,
+				278569671A3FCF7F004FCFBE /* luigi.jpg in Resources */,
 				2785694E1A3FCCCE004FCFBE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
